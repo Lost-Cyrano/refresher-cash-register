@@ -247,7 +247,7 @@
 
     async function loadProductsAndStocks() {
       try {
-        const res = await fetch("./produit.json");
+        const res = await fetch("./products/list.json");
         const data = await res.json();
 
         inventory = data.map(item => ({
