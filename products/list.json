@@ -1,8 +1,62 @@
 [
   {
     "name": "Coca-Cola",
-    "price": 2,
+    "price": 1.5,
     "image": "./coca.png",
     "firebase-link": "1"
+  },
+  {
+    "name": "Eau minérale",
+    "price": 1.0,
+    "image": "./eau.png",
+    "firebase-link": "2"
+  },
+  {
+    "name": "Jus d'orange",
+    "price": 1.8,
+    "image": "./jus_orange.png",
+    "firebase-link": "3"
+  },
+  {
+    "name": "Sandwich jambon-fromage",
+    "price": 3.5,
+    "image": "./sandwich.png",
+    "firebase-link": "4"
+  },
+  {
+    "name": "Pomme",
+    "price": 1.2,
+    "image": "./pomme.png",
+    "firebase-link": "5"
+  },
+  {
+    "name": "Barre de céréales",
+    "price": 1.3,
+    "image": "./barre_cereales.png",
+    "firebase-link": "6"
+  },
+  {
+    "name": "Yaourt à boire",
+    "price": 1.6,
+    "image": "./yaourt_boire.png",
+    "firebase-link": "7"
+  },
+  {
+    "name": "Chips",
+    "price": 1.4,
+    "image": "./chips.png",
+    "firebase-link": "8"
+  },
+  {
+    "name": "Chocolat chaud",
+    "price": 2.0,
+    "image": "./chocolat_chaud.png",
+    "firebase-link": "9"
+  },
+  {
+    "name": "Compote",
+    "price": 1.5,
+    "image": "./compote.png",
+    "firebase-link": "10"
   }
 ]
