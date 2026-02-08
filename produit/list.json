@@ -1,5 +1,8 @@
-{
+[
   {
-  "name":"Coca-Cola","price":2,"image":"./coca.png","firebase-link":"1"
+    "name": "Coca-Cola",
+    "price": 2,
+    "image": "./coca.png",
+    "firebase-link": "1"
   }
-}
+]
