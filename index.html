@@ -193,6 +193,7 @@
     // ./products/list.json (fichier statique local).
     // Les stocks, paniers et commandes vivent uniquement en
     // mémoire dans le navigateur et sont perdus au rechargement.
+    // Aucun pop-up (alert) n'est affiché : feedback en console.
     // ============================================================
 
     // ====================== ÉTAT GLOBAL (en mémoire) ======================
@@ -446,8 +447,6 @@
       loadProducts();
       updateTotal();
       removeCustomerCard();
-
-      alert(`Commande #${orderCounter - 1} enregistrée avec succès !\n\n(Donnée uniquement en mémoire locale — perdue au rechargement.)`);
     };
   </script>
 </body>
