@@ -58,5 +58,61 @@
     "price": 1.5,
     "image": "./products/images/compote.png",
     "firebase-link": "10"
+  },
+  {
+    "name": "Café",
+    "price": 1.5,
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=300&q=60",
+    "firebase-link": "cafe",
+    "stock": 25
+  },
+  {
+    "name": "Thé",
+    "price": 1.2,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=300&q=60",
+    "firebase-link": "the",
+    "stock": 18
+  },
+  {
+    "name": "Chocolat",
+    "price": 1.8,
+    "image": "https://images.unsplash.com/photo-1511381939415-e44015466834?w=300&q=60",
+    "firebase-link": "choco",
+    "stock": 12
+  },
+  {
+    "name": "Eau",
+    "price": 0.8,
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=300&q=60",
+    "firebase-link": "eau",
+    "stock": 40
+  },
+  {
+    "name": "Jus d'orange",
+    "price": 2.0,
+    "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?w=300&q=60",
+    "firebase-link": "jus",
+    "stock": 15
+  },
+  {
+    "name": "Cookie",
+    "price": 1.0,
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=300&q=60",
+    "firebase-link": "cookie",
+    "stock": 30
+  },
+  {
+    "name": "Croissant",
+    "price": 1.1,
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=300&q=60",
+    "firebase-link": "croissant",
+    "stock": 20
+  },
+  {
+    "name": "Sandwich",
+    "price": 3.5,
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=300&q=60",
+    "firebase-link": "sandwich",
+    "stock": 8
   }
 ]
