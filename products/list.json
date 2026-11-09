@@ -3,61 +3,71 @@
     "name": "Coca-Cola",
     "price": 1.5,
     "image": "./products/images/coca.png",
-    "firebase-link": "1"
+    "firebase-link": "1",
+    "stock": 3
   },
   {
     "name": "Eau minérale",
     "price": 1.0,
     "image": "./products/images/eau.png",
-    "firebase-link": "2"
+    "firebase-link": "2",
+    "stock": 0
   },
   {
     "name": "Jus d'orange",
     "price": 1.8,
     "image": "./products/images/jus_orange.png",
-    "firebase-link": "3"
+    "firebase-link": "3",
+    "stock": 21
   },
   {
     "name": "Sandwich jambon-fromage",
     "price": 3.5,
     "image": "./products/images/sandwich.png",
-    "firebase-link": "4"
+    "firebase-link": "4",
+    "stock": 12
   },
   {
     "name": "Pomme",
     "price": 1.2,
     "image": "./products/images/pomme.png",
-    "firebase-link": "5"
+    "firebase-link": "5",
+    "stock": 35
   },
   {
     "name": "Barre de céréales",
     "price": 1.3,
     "image": "./products/images/barre_cereales.png",
-    "firebase-link": "6"
+    "firebase-link": "6",
+    "stock": 40
   },
   {
     "name": "Yaourt à boire",
     "price": 1.6,
     "image": "./products/images/yaourt_boire.png",
-    "firebase-link": "7"
+    "firebase-link": "7",
+    "stock": 22
   },
   {
     "name": "Chips",
     "price": 1.4,
     "image": "./products/images/chips.png",
-    "firebase-link": "8"
+    "firebase-link": "8",
+    "stock": 28
   },
   {
     "name": "Chocolat chaud",
     "price": 2.0,
     "image": "./products/images/chocolat_chaud.png",
-    "firebase-link": "9"
+    "firebase-link": "9",
+    "stock": 15
   },
   {
     "name": "Compote",
     "price": 1.5,
     "image": "./products/images/compote.png",
-    "firebase-link": "10"
+    "firebase-link": "10",
+    "stock": 25
   },
   {
     "name": "Café",
